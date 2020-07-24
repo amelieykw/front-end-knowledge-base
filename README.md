@@ -1,4 +1,12 @@
+# amelieykw的前端知识库
 
+fork自[qianguyihao的项目](https://github.com/qianguyihao/Web)加上我自己由此衍生出去寻找的阅读材料的集合汇总。
+
+> 做不了知识的生产者，还不能做知识的搬运工吗？
+
+:wink:
+
+----
 ## 项目介绍
 
 项目地址：<https://github.com/qianguyihao/Web>
